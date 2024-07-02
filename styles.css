@@ -43,3 +43,11 @@ button {
   font-weight: bold;
   cursor: pointer;
 }
+
+button:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+button:active {
+  background-color: rgba(0, 0, 0, 0.1);
+}
